@@ -1,4 +1,4 @@
-# Android Refuerzo - Abril 2025 📱💻
+# Android Refuerzo 📱💻
 
 Este repositorio contiene mis ejercicios, prácticas y proyectos desarrollados durante mi proceso de refuerzo en desarrollo Android con Kotlin, como parte de mi plan de crecimiento profesional.
 
